@@ -27,5 +27,7 @@ It's a repository includes Notes, Resources, Articles and Code Snippets while le
 ## 🗂 Resources
 - Pluralsight path: [Developing Android Applications with Kotlin](https://app.pluralsight.com/paths/skills/android-development-with-kotlin-fundamentals)
 - Meduim series: [Learn Kotlin while developing an Android App](https://medium.com/android-news/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
-- YouTube playlist *"In Arabic"*: [Kotlin on Android](https://www.youtube.com/playlist?list=PLF8OvnCBlEY2w-zdVPozupapiKzLzpyUZ)
-- Tutorialspoint: [Kotlin Tutorial](https://www.tutorialspoint.com/kotlin/index.htm).
+- Kotlin: [Official Docs](https://kotlinlang.org/docs/home.html)
+- Tutorialspoint: [Kotlin Tutorial](https://www.tutorialspoint.com/kotlin/index.htm)
+- Blog: [An Absolute Beginner’s Guide to Kotlin](https://blog.teamtreehouse.com/absolute-beginners-guide-kotlin)
+- YouTube playlist *"In Arabic"*: [Kotlin on Android](https://www.youtube.com/playlist?list=PLF8OvnCBlEY2w-zdVPozupapiKzLzpyUZ).
