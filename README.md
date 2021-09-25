@@ -30,4 +30,5 @@ It's a repository includes Notes, Resources, Articles and Code Snippets while le
 - Kotlin: [Official Docs](https://kotlinlang.org/docs/home.html)
 - Tutorialspoint: [Kotlin Tutorial](https://www.tutorialspoint.com/kotlin/index.htm)
 - Blog: [An Absolute Beginner’s Guide to Kotlin](https://blog.teamtreehouse.com/absolute-beginners-guide-kotlin)
-- YouTube playlist *"In Arabic"*: [Kotlin on Android](https://www.youtube.com/playlist?list=PLF8OvnCBlEY2w-zdVPozupapiKzLzpyUZ).
+- YouTube playlist *"In Arabic"*: [Kotlin on Android](https://www.youtube.com/playlist?list=PLF8OvnCBlEY2w-zdVPozupapiKzLzpyUZ)
+- Trello: [Android Road Map](https://trello.com/b/fsc44tYh/android-developer-roadmap).
