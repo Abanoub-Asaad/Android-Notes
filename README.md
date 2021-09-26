@@ -5,12 +5,14 @@ It's a repository includes Notes, Resources, Articles and Code Snippets while le
 ## 📚 Syllabus
 - [x] What's Kotlin?
 - [x] Why Kotlin?
+- [ ] Kotlin Architecture
 - [x] Variables
 - [x] Data Types
 - [x] Null Safety
-- [ ] Kotlin Architecture
-- [ ] Inputs & Comments
-- [ ] Operators, Strings & Arrays
+- [x] Inputs & Comments
+- [x] Convert data types
+- [x] Operators
+- [ ] Strings & Arrays
 - [ ] Ranges
 - [ ] Functions
 - [ ] If & Loops
