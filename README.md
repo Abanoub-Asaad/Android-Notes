@@ -12,10 +12,11 @@ It's a repository includes Notes, Resources, Articles and Code Snippets while le
 - [x] Inputs & Comments
 - [x] Convert data types
 - [x] Operators
+- [x] If & When 
+- [ ] Loops
 - [ ] Strings & Arrays
 - [ ] Ranges
 - [ ] Functions
-- [ ] If & Loops
 - [ ] Collections & Lists
 - [ ] Objects & Classes
 - [ ] Constructors, Data Classes & Sealed Class
