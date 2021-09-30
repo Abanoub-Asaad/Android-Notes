@@ -13,9 +13,10 @@ It's a repository includes Notes, Resources, Articles and Code Snippets while le
 - [x] Convert data types
 - [x] Operators
 - [x] If & When 
-- [ ] Loops
-- [ ] Strings & Arrays
-- [ ] Ranges
+- [x] Loops
+- [x] Ranges
+- [ ] Strings
+- [ ] Arrays
 - [ ] Functions
 - [ ] Collections & Lists
 - [ ] Objects & Classes
