@@ -16,7 +16,7 @@ It's a repository includes Notes, Resources, Articles and Code Snippets while le
 - [x] Loops
 - [x] Ranges
 - [x] Strings
-- [ ] Arrays
+- [x] Arrays
 - [ ] Functions
 - [ ] Collections & Lists
 - [ ] Objects & Classes
