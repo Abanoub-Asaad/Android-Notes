@@ -1,4 +1,4 @@
-# Kotlin-Notes
+# Kotlin Notes
 It includes Notes, Resources, Articles and Code Snippets while learning **[Kotlin](https://github.com/JetBrains/kotlin)**. 
 
 
