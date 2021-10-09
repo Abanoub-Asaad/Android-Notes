@@ -17,11 +17,11 @@ It includes Notes, Resources, Articles and Code Snippets while learning **[Kotli
 - [x] Ranges
 - [x] Strings
 - [x] Arrays
-- [ ] Functions
+- [x] Functions
 - [ ] Collections & Lists
-- [ ] Objects & Classes
-- [ ] Constructors, Data Classes & Sealed Class
-- [ ] OOP Concepts
+- [x] Objects & Classes
+- [x] Constructors, Data Classes & Sealed Class
+- [x] OOP Concepts
 - [ ] Generics 
 - [ ] Delegation
 - [ ] Exception Handling
