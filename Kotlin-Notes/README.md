@@ -35,4 +35,6 @@ It includes Notes, Resources, Articles and Code Snippets while learning **[Kotli
 - Tutorialspoint: [Kotlin Tutorial](https://www.tutorialspoint.com/kotlin/index.htm)
 - Blog: [An Absolute Beginner’s Guide to Kotlin](https://blog.teamtreehouse.com/absolute-beginners-guide-kotlin)
 - YouTube playlist *"In Arabic"*: [Kotlin on Android](https://www.youtube.com/playlist?list=PLF8OvnCBlEY2w-zdVPozupapiKzLzpyUZ)
+- Official Docs by Android: [Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/overview)
+- Coursera Course: [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers/home/welcome)
 
