@@ -6,6 +6,7 @@ It's a repository includes Notes, Resources, Articles and Code Snippets.
 - [RXJava Notes](https://github.com/Abanoub-Asaad/Android-Notes/tree/main/RXJava-Notes)
 - [Dependency Injection Notes](https://github.com/Abanoub-Asaad/Android-Notes/tree/main/Dependency%20Injection)
 - [Android Architecture Patterns Notes](https://github.com/Abanoub-Asaad/Android-Notes/tree/main/Architecture%20Patterns)
+- [Others](https://github.com/Abanoub-Asaad/Android-Notes/tree/main/Others)
 
 
 ## 🗂 Road Map
