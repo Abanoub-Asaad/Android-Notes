@@ -11,3 +11,6 @@ It's a repository includes Notes, Resources, Articles and Code Snippets.
 
 ## 🗂 Road Map
 - Trello: [Android Road Map](https://trello.com/b/fsc44tYh/android-developer-roadmap).
+
+## 🕸️ Important websites
+- Blogs: [MindOrks](https://blog.mindorks.com/)
